@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8e97ddcf-5520-4788-89e0-d7e89ee81612" name="Alibaba139">
+        <fileTransfer rootFolder="/hzd" accessType="SFTP" host="139.196.149.61" port="22" sshConfigId="74e7f71f-8f9f-41d6-be34-38c14d182c95" sshConfig="root@139.196.149.61:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="4bc5d110-4595-459e-8c0c-2f7a8d64146a" name="Tencent110">
+        <fileTransfer rootFolder="/hzd" accessType="SFTP" host="110.40.201.71" port="22" sshConfigId="b4ef2ba5-c4e6-4cc5-bac5-fe39ace405f5" sshConfig="root@110.40.201.71:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="20816242-837d-40a4-90d9-35039df416d9" name="Alibaba106">
+        <fileTransfer rootFolder="/hzd" accessType="SFTP" host="106.14.15.207" port="22" sshConfigId="bd1e836a-be30-48dc-8dce-dfc68d276f56" sshConfig="root@106.14.15.207:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="dea223be-d26a-4430-881c-a1ffaca26447" name="Alibaba118">
+        <fileTransfer rootFolder="/hzd" accessType="SFTP" host="118.178.238.242" port="22" sshConfigId="ad637279-bebb-4fc3-93d0-677acdc74c7c" sshConfig="root@118.178.238.242:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

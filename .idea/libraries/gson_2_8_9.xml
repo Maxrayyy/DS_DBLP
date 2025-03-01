@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gson-2.8.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../下载的文件/gson-2.8.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
